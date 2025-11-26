@@ -18,11 +18,11 @@
 
 ### 个人资料概览
 
-![GitHub 统计](https://github-readme-stats.xihan.website/api?username=xihan123&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=450)
+![GitHub 统计](https://github-readme-stats.xihan.website/api?username=xihan123&count_private=true&show_icons=true&theme=dark&hide_border=true&card_width=450)
 
 ### 最常用语言
 
-![最常用语言](https://github-readme-stats.xihan.website/api/top-langs/?username=xihan123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=450)
+![最常用语言](https://github-readme-stats.xihan.website/api/top-langs/?username=xihan123&layout=compact&theme=dark&hide_border=true&card_width=450)
 
 </div>
 
@@ -34,10 +34,10 @@
 
 | | |
 | :---: | :---: |
-| [![KV Storage](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=kv-storage&theme=radical)](https://github.com/xihan123/kv-storage) | [![Doro Collector](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=doro-collector-web&theme=radical)](https://github.com/xihan123/doro-collector-web) |
-| [![SignHook](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=SignHook&theme=radical)](https://github.com/xihan123/SignHook) | [![FFmpeg-Audio](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=FFmpeg-Audio&theme=radical)](https://github.com/xihan123/FFmpeg-Audio) |
-| [![DNS Test](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=DnsSpeedTestApp&theme=radical)](https://github.com/xihan123/DnsSpeedTestApp) | [![DocTransform](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=DocTransform&theme=radical)](https://github.com/xihan123/DocTransform) |
-| [![ExcelMatch](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=ExcelMatcher&theme=radical)](https://github.com/xihan123/ExcelMatcher) | [![WordExtract](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=WordExtractor&theme=radical)](https://github.com/xihan123/WordExtractor) |
+| [![KV Storage](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=kv-storage&theme=dark&description_lines_count=3)](https://github.com/xihan123/kv-storage) | [![Doro Collector](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=doro-collector-web&theme=dark&description_lines_count=3)](https://github.com/xihan123/doro-collector-web) |
+| [![SignHook](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=SignHook&theme=dark&description_lines_count=3)](https://github.com/xihan123/SignHook) | [![FFmpeg-Audio](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=FFmpeg-Audio&theme=dark&description_lines_count=3)](https://github.com/xihan123/FFmpeg-Audio) |
+| [![DNS Test](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=DnsSpeedTestApp&theme=dark&description_lines_count=3)](https://github.com/xihan123/DnsSpeedTestApp) | [![DocTransform](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=DocTransform&theme=dark&description_lines_count=3)](https://github.com/xihan123/DocTransform) |
+| [![ExcelMatch](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=ExcelMatcher&theme=dark&description_lines_count=3)](https://github.com/xihan123/ExcelMatcher) | [![WordExtract](https://github-readme-stats.xihan.website/api/pin/?username=xihan123&repo=WordExtractor&theme=dark&description_lines_count=3)](https://github.com/xihan123/WordExtractor) |
 
 </div>
 
